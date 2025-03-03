@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Next.js
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+
+# Data
+data/*
+!data/.gitkeep
+
+# IDE
+.vscode/
+.idea/
